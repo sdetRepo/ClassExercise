@@ -6,6 +6,8 @@ public class HelloGitHUb {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello Java");
+		// comments 
+		// this is Test class
 		
 	}
 
